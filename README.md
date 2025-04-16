@@ -17,11 +17,17 @@
 </p>
 
 ##  **Featured Projects**
-###  **Augmented Reality 3D Car Model - Computer Vision**
+###  **Augmented Reality 3D Car Model**
 🔹 **Tech Stack:** Python, OpenCV, Pyrender, Trimesh
 🔹 **Description:** Built an AR system using pattern recognition and perspective projection  
 
  **Repo:** [GitHub](https://github.com/Daniellmass/AugmentedReality3DCarModel)  
+ 
+ ###  **Object Localization with Fine-tuning ResNet-18**
+🔹 **Tech Stack:** Python, PyTorch, Albumentations, COCO Format, TensorBoard
+🔹 **Description:** Fine-tuned a custom ResNet-18 backbone for object localization.
+
+ **Repo:** [GitHub](https://github.com/Daniellmass/Localization_of_Resnet_18_for_Object-Detection)  
 
 ###  **Email Classification and Visualization**
 🔹 **Tech Stack:** Python, Redis, Docker, Matplotlib
