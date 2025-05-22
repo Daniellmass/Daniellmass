@@ -29,10 +29,3 @@
 
  **Repo:** [GitHub](https://github.com/Daniellmass/Localization_of_Resnet_18_for_Object-Detection)  
 
-###  **Email Classification and Visualization**
-🔹 **Tech Stack:** Python, Redis, Docker, Matplotlib
-🔹 **Description:** Develop an integration system for Gmail, fetches email data, classifies the emails and visualizes the email distribution.  
-
- **Repo:** [GitHub](https://github.com/Daniellmass/Email-Classification-and-Visualization-with-Gmail-API-and-Redis)  
-
-
